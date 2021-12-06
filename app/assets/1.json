@@ -1,5 +1,5 @@
 {
-    "name": "NAME_OF_NFT",
+    "name": "SolSurfWave #1",
     "symbol": "",
     "image": "1.png",
     "properties": {
@@ -11,7 +11,7 @@
       ],
       "creators": [
         {
-          "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+          "address": "8wrwa1pta4xenQR7EDfEGKUggmD1ddTJ3ohMNUnqtfeE",
           "share": 100
         }
       ]
